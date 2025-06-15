@@ -5,7 +5,7 @@
   <tr>
     <!-- Columna para el GIF del Gato -->
     <td style="width:50%; text-align: center; vertical-align: middle; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/71e1e9d9-eae8-43a5-9dc5-b66874181507" alt="Un gato riendo, tipo GIF divertido" width="250" />
+      <img src="https://github.com/user-attachments/assets/71e1e9d9-eae8-43a5-9dc5-b66874181507" alt="Un gato riendo, tipo GIF divertido" width="125" />
     </td>
     <!-- Columna para la Insignia de Most Used Languages -->
     <td style="width:50%; text-align: center; vertical-align: middle; padding: 10px;">
