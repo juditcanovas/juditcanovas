@@ -1,8 +1,8 @@
 ## Hi Everyone, I'm Judit 👋
 ![EheheLaughingCatGIF](https://github.com/user-attachments/assets/71e1e9d9-eae8-43a5-9dc5-b66874181507)
 
-<a href="https://github.com/ericpastorm/ericpastorm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&hide=,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/juditcanovas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juditcanovas&hide=,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <!--
