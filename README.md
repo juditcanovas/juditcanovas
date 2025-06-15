@@ -21,8 +21,6 @@
 
 <!-- Puedes añadir más contenido Markdown aquí abajo para el resto de tu perfil -->
 
----
----
 <!--
 **juditcanovas/juditcanovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
