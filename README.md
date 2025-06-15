@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Everyone, I'm Judit 👋
+![EheheLaughingCatGIF](https://github.com/user-attachments/assets/71e1e9d9-eae8-43a5-9dc5-b66874181507)
 
 <!--
 **juditcanovas/juditcanovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
