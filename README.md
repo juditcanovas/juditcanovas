@@ -1,4 +1,4 @@
-## Hi Everyone, I'm Judit 👋
+## Hi Everyone, I'm Judit :)
 ![EheheLaughingCatGIF](https://github.com/user-attachments/assets/71e1e9d9-eae8-43a5-9dc5-b66874181507)
 
 <a href="https://github.com/juditcanovas">
