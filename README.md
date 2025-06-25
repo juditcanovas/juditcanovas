@@ -20,6 +20,14 @@
 </table>
 
 <!-- Puedes añadir más contenido Markdown aquí abajo para el resto de tu perfil -->
+### Herramientas y Librerías de Análisis de Datos
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3366cc?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4A85B1?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <!--
 **juditcanovas/juditcanovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
