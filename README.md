@@ -1,6 +1,6 @@
 ## Hi Everyone, I'm Judit :)
 <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 0 10px;">
-  🧪 I'm a Quality Control Technician in a laboratory, with a background in Chemistry, and I'm passionately exploring software development. I'm drawn to the logic and creativity of programming, and my goal is to delve into Data Analysis or similar roles in the future.
+  🧪 I'm a Quality Control Technician in a laboratory, with a university degree in Chemistry, and I'm passionately exploring software development. I'm drawn to the logic and creativity of programming, and my goal is to delve into Data Analysis or similar roles in the future.
 </div>
 
 <!-- Contenedor con tabla HTML para elementos lado a lado -->
