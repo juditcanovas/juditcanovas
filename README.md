@@ -13,7 +13,7 @@
     <!-- Columna para la Insignia de Most Used Languages -->
     <td style="width:50%; text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/juditcanovas">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juditcanovas&hide=tex,jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gráfico de los lenguajes más usados en GitHub de Judit" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juditcanovas&hide=tex,Jupyter%20Notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gráfico de los lenguajes más usados en GitHub de Judit" />
       </a>
     </td>
   </tr>
